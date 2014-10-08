@@ -6,6 +6,7 @@
 *.fls
 *.out
 *.toc
+*.bak
 
 ## Intermediate documents:
 *.dvi
@@ -25,6 +26,7 @@
 ## Build tool auxiliary files:
 *.fdb_latexmk
 *.synctex.gz
+*.synctex
 *.synctex.gz(busy)
 *.pdfsync
 
